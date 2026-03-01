@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Code Style](https://img.shields.io/badge/code%20style-black-black)]()
 [![Pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen)]()
-[![Website](https://img.shields.io/badge/website-live-blue.svg)](https://senatorovai.github.io/python-open-source-standards-course)
+[![Website](https://img.shields.io/badge/website-live-blue.svg)](https://senatorovai.github.io/fastapi-telegram-bot-vps-deployment-course)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 ## Обзор
