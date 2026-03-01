@@ -201,3 +201,191 @@ class Buyer:
 4. python-dotenv - для работы с .env файлами
 5. pydantic - для валидации данных (используется в FastAPI)
 
+
+# 🚀 FastAPI + Telegram Bot + VPS Deployment Course
+
+### Ngrok • Webhook • NGINX • SSL • CRON • Systemd • Production Deployment
+
+Полный практический курс по созданию и деплою Python-приложения с использованием **FastAPI**, Telegram-бота, вебхуков и развёртыванием на VPS с NGINX и SSL.
+
+Этот репозиторий содержит структуру и материалы курса по созданию production-ready приложения с нуля — от локального сервера до полноценного развертывания на VPS.
+
+---
+
+## 🔎 SEO Keywords (GitHub + Google)
+
+FastAPI tutorial, Telegram bot webhook, Python deployment guide, VPS deployment, NGINX configuration, SSL Certbot setup, Python backend course, production deployment FastAPI, CRON setup Linux, systemd service configuration, ngrok tutorial, domain setup VPS
+
+---
+
+# 📚 О чём этот курс?
+
+Вы научитесь:
+
+* Разрабатывать backend на **FastAPI**
+* Подключать и настраивать Telegram-бота
+* Работать с Webhook
+* Тестировать API
+* Поднимать локальный сервер через Ngrok
+* Покупать домен и VPS
+* Настраивать NGINX
+* Подключать SSL через Certbot
+* Разворачивать приложение на VPS
+* Настраивать CRON и systemd daemon
+* Запускать production-ready сервер
+
+---
+
+# 🧱 Структура курса
+
+## 3. Backend и локальная разработка
+
+### 3.1 Локальный сервер Ngrok
+
+* Поднимаем локальный FastAPI сервер
+* Пробрасываем HTTPS туннель через Ngrok
+* Подключаем webhook к Telegram
+
+### 3.2 Работа с API
+
+* HTTP методы (GET, POST)
+* JSON запросы и ответы
+* Обработка ошибок
+* Тестирование эндпоинтов
+
+### 3.3 Создаем приложение
+
+* Архитектура FastAPI проекта
+* Роутеры
+* Pydantic модели
+* Структура production-проекта
+
+### 3.4 Исходники FastAPI
+
+* Разбор кода
+* Обработка запросов
+* Middleware
+* Асинхронная логика
+
+### 3.5 Телеграм бот
+
+* Создание бота
+* Настройка webhook
+* Обработка сообщений
+* Интеграция с FastAPI
+
+### 3.6 Запускаем сервер
+
+* uvicorn
+* gunicorn
+* Параметры запуска
+* Debug vs Production
+
+### 3.7 Тестируем сервер
+
+* curl
+* Postman
+* Проверка webhook
+* Логирование
+
+### 3.8 Исходники вебхука
+
+* Полный разбор webhook-обработчика
+* Валидация данных
+* Ответы Telegram API
+
+---
+
+# 🌍 4. Покупка домена и VPS
+
+### 4.1 Домен и VPS
+
+* Выбор хостинга
+* Покупка домена
+* Настройка DNS
+* Подключение домена к серверу
+
+---
+
+# ⚙️ 5. Деплой / Развертывание на VPS
+
+## 5.1 Настройка NGINX
+
+* Reverse proxy
+* Проброс портов
+* Конфигурация server block
+* Работа с upstream
+
+## 5.2 SSL и Certbot
+
+* Установка Certbot
+* Получение SSL сертификата
+* Автообновление сертификатов
+
+## 5.3 Переносим приложение на VPS
+
+* Клонирование репозитория
+* Создание виртуального окружения
+* Установка зависимостей
+* Настройка переменных окружения
+
+## 5.4 Тестируем VPS
+
+* Проверка HTTPS
+* Проверка webhook
+* Проверка API
+
+## 5.5 Настройка CRON
+
+* Планировщик задач
+* Автоматические перезапуски
+* Очистка логов
+* Автоматизация процессов
+
+## 5.6 Настройка демона (systemd)
+
+* Создание сервиса
+* Автозапуск при старте сервера
+* Перезапуск при падении
+* Контроль через systemctl
+
+---
+
+# 🧠 Что вы получите
+
+После прохождения курса вы:
+
+* Понимаете полный цикл разработки backend
+* Умеете деплоить Python-приложения на VPS
+* Работаете с NGINX и SSL
+* Настраиваете production-среду
+* Запускаете Telegram-ботов через webhook
+* Автоматизируете сервер через CRON и systemd
+
+---
+
+# 🛠 Технологии
+
+* Python 3.10+
+* FastAPI
+* Uvicorn / Gunicorn
+* NGINX
+* Certbot (Let’s Encrypt)
+* Linux VPS
+* Telegram Bot API
+* Ngrok
+
+---
+
+# 🎯 Для кого этот курс?
+
+* Python разработчиков
+* Backend разработчиков
+* Data Science специалистов, которые хотят деплоить модели
+* Начинающих DevOps
+* Всех, кто хочет научиться production deployment
+
+---
+
+
+
